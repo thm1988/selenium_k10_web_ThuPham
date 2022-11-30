@@ -30,7 +30,9 @@ public class LaunchBrowser {
         // DEBUG
         try {
             Thread.sleep(3000);
-        } catch (Exception ignored) {}
+        } catch (Exception ignored) {
+
+        }
 
         driver.quit();
     }

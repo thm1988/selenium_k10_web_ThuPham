@@ -28,7 +28,7 @@ public class FormInteractionMultipleMatching {
             }
             final int USERNAME_INDEX = 0;
             final int PASSWORD_INDEX = 1;
-            inputFieldsElem.get(USERNAME_INDEX).sendKeys("teo");
+            inputFieldsElem.get(USERNAME_INDEX).sendKeys("thu");
             inputFieldsElem.get(PASSWORD_INDEX).sendKeys("12345678");
 
             // Debug purpose ONLY
